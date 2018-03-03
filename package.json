@@ -1,0 +1,15 @@
+{
+  "name": "dockernodeclient",
+  "version": "1.0.0",
+  "description": "Node client using Docker SDK",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khalid Sakib",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "harbor-master": "^1.32.1"
+  }
+}
